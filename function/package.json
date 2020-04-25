@@ -1,0 +1,14 @@
+{
+  "name": "cloud-logging-to-slack",
+  "version": "0.1.0",
+  "description": "send log entry to slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoshiyuki Kato",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/web-api": "^5.8.0"
+  }
+}
